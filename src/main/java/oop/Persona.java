@@ -1,5 +1,7 @@
 package oop;
 
+import java.util.Objects;
+
 public class Persona {
     //Atributos
     int id;
@@ -53,4 +55,15 @@ public class Persona {
     public void saludar(){
         System.out.println("Hola me llamo "+ this.nombre);
     }
+
+    @Override
+    public String toString() {
+        return "Persona{" +
+                "id=" + id +
+                ", nombre='" + nombre + '\'' +
+                ", edad=" + edad +
+                ", altura=" + altura +
+                '}';
+    }
+
 }
