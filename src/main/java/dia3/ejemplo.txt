@@ -1,0 +1,126 @@
+28001	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28002	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28003	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28004	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28005	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28006	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28007	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28008	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28009	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28010	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28011	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28012	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28013	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28014	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28015	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28016	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28017	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28018	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28019	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28020	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28021	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28022	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28023	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28024	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28025	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28026	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28027	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28028	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28029	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28030	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28031	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28032	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28033	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28034	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28035	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28036	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28037	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28038	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28039	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28040	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28041	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28042	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28043	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28044	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28045	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28046	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28047	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28048	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28049	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28050	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28051	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28052	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28053	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28054	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28055	Madrid	Comunidad de Madrid	Comunidad de Madrid
+28100	Alcobendas	Comunidad de Madrid	Comunidad de Madrid
+28108	Alcobendas	Comunidad de Madrid	Comunidad de Madrid
+28109	Alcobendas	Comunidad de Madrid	Comunidad de Madrid
+28110	Algete	Comunidad de Madrid	Comunidad de Madrid
+28119	Algete	Comunidad de Madrid	Comunidad de Madrid
+28120	Algete	Comunidad de Madrid	Comunidad de Madrid
+28130	Valdeolmos-Alalpardo	Comunidad de Madrid	Comunidad de Madrid
+28140	Fuente el Saz de Jarama	Comunidad de Madrid	Comunidad de Madrid
+28150	Valdetorres de Jarama	Comunidad de Madrid	Comunidad de Madrid
+28160	Talamanca de Jarama	Comunidad de Madrid	Comunidad de Madrid
+28170	Valdepiélagos	Comunidad de Madrid	Comunidad de Madrid
+28180	Torrelaguna	Comunidad de Madrid	Comunidad de Madrid
+28189	Patones	Comunidad de Madrid	Comunidad de Madrid
+28190	Montejo de la Sierra	Comunidad de Madrid	Comunidad de Madrid
+28191	Prádena del Rincón	Comunidad de Madrid	Comunidad de Madrid
+28192	El Berrueco	Comunidad de Madrid	Comunidad de Madrid
+28193	Cervera de Buitrago	Comunidad de Madrid	Comunidad de Madrid
+28194	Robledillo de la Jara	Comunidad de Madrid	Comunidad de Madrid
+28195	Puentes Viejas	Comunidad de Madrid	Comunidad de Madrid
+28196	Puentes Viejas	Comunidad de Madrid	Comunidad de Madrid
+28200	San Lorenzo de El Escorial	Comunidad de Madrid	Comunidad de Madrid
+28209	San Lorenzo de El Escorial	Comunidad de Madrid	Comunidad de Madrid
+28210	Valdemorillo	Comunidad de Madrid	Comunidad de Madrid
+28211	El Escorial	Comunidad de Madrid	Comunidad de Madrid
+28212	Navalagamella	Comunidad de Madrid	Comunidad de Madrid
+28213	Colmenar del Arroyo	Comunidad de Madrid	Comunidad de Madrid
+28214	Fresnedillas de la Oliva	Comunidad de Madrid	Comunidad de Madrid
+28219	El Escorial	Comunidad de Madrid	Comunidad de Madrid
+28220	Majadahonda	Comunidad de Madrid	Comunidad de Madrid
+28221	Majadahonda	Comunidad de Madrid	Comunidad de Madrid
+28222	Majadahonda	Comunidad de Madrid	Comunidad de Madrid
+28223	Pozuelo de Alarcón	Comunidad de Madrid	Comunidad de Madrid
+28224	Pozuelo de Alarcón	Comunidad de Madrid	Comunidad de Madrid
+28229	Villanueva del Pardillo	Comunidad de Madrid	Comunidad de Madrid
+28231	Las Rozas de Madrid	Comunidad de Madrid	Comunidad de Madrid
+28232	Las Rozas de Madrid	Comunidad de Madrid	Comunidad de Madrid
+28240	Hoyo de Manzanares	Comunidad de Madrid	Comunidad de Madrid
+28248	Hoyo de Manzanares	Comunidad de Madrid	Comunidad de Madrid
+28250	Torrelodones	Comunidad de Madrid	Comunidad de Madrid
+28260	Galapagar	Comunidad de Madrid	Comunidad de Madrid
+28270	Colmenarejo	Comunidad de Madrid	Comunidad de Madrid
+28280	El Escorial	Comunidad de Madrid	Comunidad de Madrid
+28290	Las Rozas de Madrid	Comunidad de Madrid	Comunidad de Madrid
+28292	El Escorial	Comunidad de Madrid	Comunidad de Madrid
+28293	Zarzalejo	Comunidad de Madrid	Comunidad de Madrid
+28294	Robledo de Chavela	Comunidad de Madrid	Comunidad de Madrid
+28295	Valdemaqueda	Comunidad de Madrid	Comunidad de Madrid
+28296	Santa María de la Alameda	Comunidad de Madrid	Comunidad de Madrid
+28297	Santa María de la Alameda	Comunidad de Madrid	Comunidad de Madrid
+28300	Aranjuez	Comunidad de Madrid	Comunidad de Madrid
+28310	Aranjuez	Comunidad de Madrid	Comunidad de Madrid
+28311	Aranjuez	Comunidad de Madrid	Comunidad de Madrid
+28312	Aranjuez	Comunidad de Madrid	Comunidad de Madrid
+28320	Pinto	Comunidad de Madrid	Comunidad de Madrid
+28330	San Martín de la Vega	Comunidad de Madrid	Comunidad de Madrid
+28341	Valdemoro	Comunidad de Madrid	Comunidad de Madrid
+28342	Valdemoro	Comunidad de Madrid	Comunidad de Madrid
+28343	Valdemoro	Comunidad de Madrid	Comunidad de Madrid
+28350	Ciempozuelos	Comunidad de Madrid	Comunidad de Madrid
+28359	Titulcia	Comunidad de Madrid	Comunidad de Madrid
+28360	Villaconejos	Comunidad de Madrid	Comunidad de Madrid
+28370	Chinchón	Comunidad de Madrid	Comunidad de Madrid
+28380	Colmenar de Oreja	Comunidad de Madrid	Comunidad de Madrid
+28390	Belmonte de Tajo	Comunidad de Madrid	Comunidad de Madrid
+28391	Valdelaguna	Comunidad de Madrid	Comunidad de Madrid
+28400	Collado Villalba	Comunidad de Madrid	Comunidad de Madrid
+28410	Manzanares el Real	Comunidad de Madrid	Comunidad de Madrid
+28411	Moralzarzal	Comunidad de Madrid	Comunidad de Madrid
+28412	El Boalo	Comunidad de Madrid	Comunidad de Madrid
+28413	El Boalo	Comunidad de Madrid	Comunidad de Madrid
+28420	Galapagar	Comunidad de Madrid	Comunidad de Madrid
