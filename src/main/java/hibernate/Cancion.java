@@ -1,14 +1,8 @@
 package hibernate;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 @Entity
 @Table(name = "cancion")
@@ -20,6 +14,7 @@ import javax.persistence.Table;
 public class Cancion {
     @Id
     @Column(name = "id", nullable = false)
+    @GeneratedValue
     private Long id;
     @Column(name = "titulo", nullable = false)
     String titulo;
@@ -27,4 +22,15 @@ public class Cancion {
     String artista;
     @Column(name = "añoPublicacion", nullable = true)
     int annoPublicacion;
+
+    public Cancion(String titulo, String autor, int fecha) {
+        this.titulo = titulo;
+        this.artista = autor;
+        this.annoPublicacion = fecha;
+    }
+
+    @Override
+    public String toString() {
+        return id + "," + titulo + "," + artista + "," + annoPublicacion;
+    }
 }

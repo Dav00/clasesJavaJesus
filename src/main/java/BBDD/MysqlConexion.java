@@ -8,7 +8,7 @@ public class MysqlConexion {
         try {
             Class.forName("com.mysql.jdbc.Driver");
             Connection con = DriverManager.getConnection(
-                    "jdbc:mysql://localhost:33060/inmobiliaria","root","davo");
+                    "jdbc:mysql://localhost:33060/inmobiliaria?useSSL=false","root","davo");
             Statement stmt = con.createStatement();
             ResultSet rs = stmt.executeQuery("select * from empleados");
             while(rs.next()){

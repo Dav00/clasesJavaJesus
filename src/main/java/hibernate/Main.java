@@ -6,6 +6,7 @@ import org.hibernate.cfg.Configuration;
 
 public class Main {
     public static void main(String[] args) {
+
         //Configuramos el Hibernate
         Configuration config = new Configuration();
         config.configure("configuracionHibernate.xml");
